@@ -19,6 +19,8 @@ RUN apt-get update && \
   et en lançant un container dans la même plage d'adresse ip ou l'on ferais nc -l -p 2020  pour se connecter et dialoguer.
   
   
+  étanttant donné que je me suis perdu en faisant n'importe quoi je n'est pas pu effectuer tout ce qu'il fallais faire je n'ais donc pas de captures
+  
   
 ## Capture d'écran
 
